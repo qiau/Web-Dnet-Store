@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": "109f",
+      "username": "aku",
+      "password": "a"
+    },
+    {
+      "id": "5960",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "type": "Dedicated Connectivity",
+      "items": [
+        {
+          "id": 101,
+          "name": "Premium Plan",
+          "price": 1000000,
+          "description": "Koneksi internet premium stabilitas tinggi untuk kebutuhan bisnis.",
+          "speed": "Bandwidth hingga 50 Mbps",
+          "image": "https://i.imgur.com/6OFCjDe.png"
+        },
+        {
+          "id": 102,
+          "name": "Corporate Solutions",
+          "price": 1500000,
+          "description": "Solusi konektivitas lengkap untuk perusahaan besar.",
+          "speed": "Bandwidth hingga 100 Mbps",
+          "image": "https://i.imgur.com/dWNy9P0.png"
+        },
+        {
+          "id": 103,
+          "name": "Internet Exchange",
+          "price": 2000000,
+          "description": "Akses ke jaringan internet exchange dengan kecepatan optimal.",
+          "speed": "Bandwidth hingga 200 Mbps",
+          "image": "https://i.imgur.com/pbAV5Ms.png"
+        },
+        {
+          "id": 104,
+          "name": " Connectivity Loop",
+          "price": 2500000,
+          "description": "Koneksi loop khusus untuk berbagai lokasi perusahaan.",
+          "speed": "Bandwidth hingga 300 Mbps",
+          "image": "https://i.imgur.com/mQz3Frg.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Broadband Internet",
+      "items": [
+        {
+          "id": 201,
+          "name": "Flex Ultimate",
+          "price": 799000,
+          "speed": " Up to 100 Mbps",
+          "description": "Paket broadband untuk penggunaan intensif tanpa batas.",
+          "image": "https://i.imgur.com/m0JBkBv.png"
+        },
+        {
+          "id": 202,
+          "name": "Flex Premium",
+          "price": 499000,
+          "speed": "Up to 50 Mbps",
+          "description": "Paket premium untuk pengalaman internet maksimal.",
+          "image": "https://i.imgur.com/kB1Ma6Y.png"
+        },
+        {
+          "id": 203,
+          "name": "Flex Standard",
+          "price": 299000,
+          "speed": "Up to 20 Mbps",
+          "description": "Paket broadband untuk kebutuhan rumah tangga.",
+          "image": "https://i.imgur.com/NDooCSx.png"
+        },
+        {
+          "id": 204,
+          "name": "Flex Lite",
+          "price": 199000,
+          "speed": "Up to 10 Mbps",
+          "description": "Paket broadband hemat untuk kebutuhan dasar.",
+          "image": "https://i.imgur.com/G3DyFP3.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Business Solution",
+      "items": [
+        {
+          "id": 301,
+          "name": "Dreams",
+          "price": 5000000,
+          "description": "Solusi bisnis impian Anda untuk menciptakan peluang baru.",
+          "image": "https://i.imgur.com/q4DLLWk.png"
+        },
+        {
+          "id": 302,
+          "name": "Colocation",
+          "price": 4000000,
+          "description": "Layanan hosting dengan colocation server terpercaya.",
+          "image": "https://i.imgur.com/gTFsZ6r.png"
+        },
+        {
+          "id": 303,
+          "name": "Smart Wifi Service",
+          "price": 6000000,
+          "description": "Layanan WiFi pintar untuk bisnis modern Anda.",
+          "image": "https://i.imgur.com/ycQZZdB.png"
+        },
+        {
+          "id": 304,
+          "name": "Smart Gateway",
+          "price": 8000000,
+          "description": "Gerbang pintar untuk menghubungkan semua perangkat bisnis Anda.",
+          "image": "https://i.imgur.com/Y20N0Fc.png"
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "cc38",
+      "userId": "f9f1",
+      "items": [
+        {
+          "productId": 103,
+          "quantity": 5
+        },
+        {
+          "productId": 201,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
